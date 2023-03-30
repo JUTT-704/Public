@@ -1,6 +1,6 @@
 import os,platform
 os.system('git pull')
-Print(' \33[1;31mYouTube Channel Subscribe')
+print(' \33[1;31mYouTube Channel Subscribe')
 os.system('xdg-open https://youtube.com/@MrNow-ue5wb')
 xd=platform.architecture()[0]
 if xd=="32bit":
